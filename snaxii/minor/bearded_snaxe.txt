@@ -1,0 +1,13 @@
+[Name]
+Bearded Snaxe
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/minor/bearded_snaxe/bearded_snaxe_square.PNG
+-/images/snaxii/minor/bearded_snaxe/bearded_snaxe.PNG

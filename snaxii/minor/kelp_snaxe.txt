@@ -1,0 +1,13 @@
+[Name]
+Kelp Snaxe
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/minor/kelp_snaxe/kelp_snaxe_square.png
+-/images/snaxii/minor/kelp_snaxe/kelp_snaxe.png

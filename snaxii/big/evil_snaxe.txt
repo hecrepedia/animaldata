@@ -1,0 +1,13 @@
+[Name]
+Evil Snaxe
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/big/evil_snaxe/evil_snaxe_square.PNG
+-/images/snaxii/big/evil_snaxe/evil_snaxe.PNG

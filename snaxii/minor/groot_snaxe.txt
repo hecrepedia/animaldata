@@ -1,0 +1,13 @@
+[Name]
+Groot Snaxe
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/minor/groot_snaxe/groot_snaxe_square.png
+-/images/snaxii/minor/groot_snaxe/groot_snaxe.png

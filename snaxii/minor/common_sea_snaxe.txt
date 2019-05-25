@@ -1,0 +1,13 @@
+[Name]
+Common Sea Snaxe
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/minor/common_sea_snaxe/common_sea_snaxe_square.jpeg
+-/images/snaxii/minor/common_sea_snaxe/common_sea_snaxe.jpeg

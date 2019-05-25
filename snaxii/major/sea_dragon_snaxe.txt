@@ -1,0 +1,13 @@
+[Name]
+Sea Dragon Snaxe
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/major/sea_dragon_snaxe/sea_dragon_snaxe_square.jpg
+-/images/snaxii/major/sea_dragon_snaxe/sea_dragon_snaxe.jpg

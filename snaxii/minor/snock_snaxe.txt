@@ -1,0 +1,13 @@
+[Name]
+Snock Snaxe
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/minor/snock_snaxe/snock_snaxe_square.png
+-/images/snaxii/minor/snock_snaxe/snock_snaxe.png

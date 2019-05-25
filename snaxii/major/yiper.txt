@@ -1,0 +1,13 @@
+[Name]
+Yiper
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/major/yiper/yiper_square.jpg
+-/images/snaxii/major/yiper/yiper.jpg

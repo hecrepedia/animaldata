@@ -1,0 +1,13 @@
+[Name]
+Yellow Snaxe
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/minor/yellow_snaxe/yellow_snaxe_square.png
+-/images/snaxii/minor/yellow_snaxe/yellow_snaxe.png

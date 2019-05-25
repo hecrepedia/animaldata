@@ -1,0 +1,13 @@
+[Name]
+Shark Snaxe
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/minor/shark_snaxe/shark_snaxe_square.png
+-/images/snaxii/minor/shark_snaxe/shark_snaxe.png

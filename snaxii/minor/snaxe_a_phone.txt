@@ -1,0 +1,13 @@
+[Name]
+Snaxe-a-Phone
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/minor/snaxe_a_phone/snaxe_a_phone_square.png
+-/images/snaxii/minor/snaxe_a_phone/snaxe_a_phone.png

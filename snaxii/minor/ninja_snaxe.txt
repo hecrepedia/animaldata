@@ -1,0 +1,13 @@
+[Name]
+Ninja Snaxe
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/minor/ninja_snaxe/ninja_snaxe_square.png
+-/images/snaxii/minor/ninja_snaxe/ninja_snaxe.png

@@ -1,0 +1,13 @@
+[Name]
+Samurai Snaxe
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/minor/samurai_snaxe/samurai_snaxe_square.png
+-/images/snaxii/minor/samurai_snaxe/samurai_snaxe.png

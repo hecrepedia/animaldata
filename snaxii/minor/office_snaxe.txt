@@ -1,0 +1,13 @@
+[Name]
+Office Snaxe
+[Pronunciation]
+[Rarity]
+Majestic
+[Powers]
+[Bio]
+[Personality]
+[History]
+[Fun Facts]
+[Gallery]
+-/images/snaxii/minor/office_snaxe/office_snaxe_square.png
+-/images/snaxii/minor/office_snaxe/office_snaxe.png
