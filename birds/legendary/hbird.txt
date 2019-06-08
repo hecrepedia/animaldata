@@ -22,7 +22,7 @@ Soon, when we truly figure out the true origin, we will reveal the truth here.</
 [Fun Facts]
 <p>The Hecretary Bird has inspired a T.V. show where the main character has the head of the Hecretary and the body of a dog.</p>
 [Gallery]
--/images/birds/legendary/hbird/hbird_square.PNG
+-/images/birds/legendary/hbird/hbird_square.png
 -/images/birds/legendary/hbird/hbird.jpg
 -/images/birds/legendary/hbird/hbird_flying.png
 -/images/birds/legendary/hbird/hbird_profile.jpg

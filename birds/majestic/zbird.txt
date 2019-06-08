@@ -9,5 +9,5 @@ Majestic
 [History]
 [Fun Facts]
 [Gallery]
--/images/birds/majestic/zbird/zbird_square.jpeg
+-/images/birds/majestic/zbird/zbird_square.jpg
 -/images/birds/majestic/zbird/lesser_zecretary.jpeg

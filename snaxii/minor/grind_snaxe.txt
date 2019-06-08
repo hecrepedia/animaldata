@@ -9,5 +9,5 @@ Majestic
 [History]
 [Fun Facts]
 [Gallery]
--/images/snaxii/minor/grind_snaxe/grind_snaxe_tomb_square.jpeg
+-/images/snaxii/minor/grind_snaxe/grind_snaxe_tomb_square.jpg
 -/images/snaxii/minor/grind_snaxe/grind_snaxe_tomb.jpeg

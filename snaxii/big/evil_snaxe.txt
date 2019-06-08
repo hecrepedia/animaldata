@@ -9,5 +9,5 @@ Majestic
 [History]
 [Fun Facts]
 [Gallery]
--/images/snaxii/big/evil_snaxe/evil_snaxe_square.PNG
+-/images/snaxii/big/evil_snaxe/evil_snaxe_square.png
 -/images/snaxii/big/evil_snaxe/evil_snaxe.PNG
