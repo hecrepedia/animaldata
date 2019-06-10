@@ -2,12 +2,26 @@
 Balloon Snaxe
 [Pronunciation]
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>A bird? Nay. A plane? It's a Balloon Snaxe, and probably not superman.
+ You can tell by it's appearance that this Snaxe has the ability to
+ shape-shift. What makes this Snaxe so deadly is that it has evolved to
+ target young children. Do not fret, the ease of remove of these Snaxii
+ is fitting for their rarity. Some get caught up in the wrong end of a
+ science experiment, some never get inflated. Just keep a safety pin
+ with you at all times, and you too can be like Big Shaq when you make
+ the Balloon Snaxii go Pop-pop-pop-pop-pop!</p>
 [Personality]
+<p>These Snaxii love to go high into the air, turn back into their
+ Snaxe forms, fall back down, and see who is the last one that turns
+ back into a balloon.</p>
 [History]
+<p>These Snaxii have just appeared and gone and reappeared in history
+ whenever they fell like it. Gosh darn Balloon Snaxii.</p>
 [Fun Facts]
+<p>These Snaxii love to party.</p>
 [Gallery]
 -/images/snaxii/minor/balloon_snaxe/balloon_snaxe_square.png
 -/images/snaxii/minor/balloon_snaxe/balloon_snaxe.png

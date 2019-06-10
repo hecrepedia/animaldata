@@ -2,12 +2,29 @@
 Yiper
 [Pronunciation]
 [Rarity]
-Majestic
+Major
 [Powers]
 [Bio]
+<p>A being of great power, enough to destroy cities and definitely much more.
+ Whilst being a Major Snaxe, this is the only one with the power that rivals
+ the Evil Snaxe. It can summon devastating storms, but is currently hiding
+ so that it won't draw attention to itself and prepare for a massive attack.
+ Unfortunately for us, its plan will most likely work because the Yiper
+ does not have hands, it cannot draw.</p>
 [Personality]
+<p>This reclusive Snaxe is very scary. It has learned how to become invisible
+ by standing so still, an ability only shared by the great Drax from the MCU.
+ It attacks are very quick, it can destroy 1,000 cities faster than Thanos
+ could snap them away.</p>
 [History]
+<p>Other than being formed at the same time as the original Major Snaxii,
+ we don't currently have anything yet, and we doubt that it would be
+ mentioned in the Magnitudo, since the power of the creatures in Magnitude
+ would make the Yiper seem like a fly to them. And the Yiper doesn't even
+ have wings!</p>
 [Fun Facts]
+<p>The only current picture of Yiper that we have as has its name inscribed
+ in the ancient and truest language, Anglish.</p>
 [Gallery]
 -/images/snaxii/major/yiper/yiper_square.jpg
 -/images/snaxii/major/yiper/yiper.jpg

@@ -2,12 +2,17 @@
 Common Sea Snaxe
 [Pronunciation]
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>They are ubiquitous in the sea and other locations of water.</p>
 [Personality]
+<p>They are aggressive but don't really do much.</p>
 [History]
+<p>It is said that the Yiper has an aquarium filled with these
+ common Snaxii.</p>
 [Fun Facts]
+<p>Some can appear in the form of a water gun!</p>
 [Gallery]
 -/images/snaxii/minor/common_sea_snaxe/common_sea_snaxe_square.jpg
 -/images/snaxii/minor/common_sea_snaxe/common_sea_snaxe.jpeg

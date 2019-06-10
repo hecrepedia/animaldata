@@ -5,9 +5,16 @@ Lesser Zecretary
 Majestic
 [Powers]
 [Bio]
+<p>Imagine standing in the middle of space and just doing that for a really long time while being lesser than
+ your greater counterpart. Great! You just imagined the Lesser Zecretary Bird.</p>
 [Personality]
+<p>We honestly have no idea. There is not enough field data on this bird.</p>
 [History]
+<p>We assume that the Lesser Zecretary is somehow related to the Eliqiniles, but it is not yet discussed in Magnitudo.
+ There is a great mystery surrounding this bird, and we are still researching it.</p>
 [Fun Facts]
+<p>The Lesser Zecretary bird is not only the first animal to have a portrait form of a digital image,
+ but it is also the first one to be featured in a live background/video.</p>
 [Gallery]
 -/images/birds/majestic/zbird/zbird_square.jpg
 -/images/birds/majestic/zbird/lesser_zecretary.jpeg

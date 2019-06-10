@@ -1,13 +1,25 @@
 [Name]
 Evil Snaxe
 [Pronunciation]
+/eev░ ssnaks/
 [Rarity]
-Majestic
+Big
 [Powers]
 [Bio]
+<p>The most evil being known to the Hecretary Alliance. Do not ever feel sympathy
+ for it or believe that it is being antagonized, it is just a ploy to convert you
+ into a Snaxe Follower, and then you would be an enemy of the HBA. It is known to
+ have a great rivalry with the Hecretary Bird due to a famous fight that took
+ place in Part of the Universe a long eon ago.</p>
 [Personality]
+<p>Evil. Bad. Monstrous. Diabolical. Maniac. Sinister. This creature is the
+ embodiment of everything we fear, hate, and want to destroy. This creature
+ loves to wreak havoc wherever it can.</p>
 [History]
+<p>Although we have some historical evidence of the history including the
+ Evil Snaxe, we will provide you with a full history once Magnitudo is finished.</p>
 [Fun Facts]
+<p>There is nothing fun about this Snaxe.</p>
 [Gallery]
 -/images/snaxii/big/evil_snaxe/evil_snaxe_square.png
 -/images/snaxii/big/evil_snaxe/evil_snaxe.PNG

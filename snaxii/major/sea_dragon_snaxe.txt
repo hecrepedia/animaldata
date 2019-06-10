@@ -2,12 +2,20 @@
 Sea Dragon Snaxe
 [Pronunciation]
 [Rarity]
-Majestic
+Major
 [Powers]
 [Bio]
+<p>We don't know much about this creature, it is a Sea-Dwelling-Snaxe.
+ We only assume that its name accurately describes how vicious it is.</p>
 [Personality]
+<p>We don't know, sorry. Our research team is still sending battalions of
+ scuba divers to find it.</p>
 [History]
+<p>We are assuming that all the history for this creature can be found at the
+ bottom of the deepest ocean, and we cannot reach there.</p>
 [Fun Facts]
+<p>This creature is not part of the original Major Snaxii, we do not know
+ of its origins yet.</p>
 [Gallery]
 -/images/snaxii/major/sea_dragon_snaxe/sea_dragon_snaxe_square.jpg
 -/images/snaxii/major/sea_dragon_snaxe/sea_dragon_snaxe.jpg
