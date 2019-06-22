@@ -2,12 +2,16 @@
 Dolphin Snaxe
 [Pronunciation]
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>A sea-dwelling Snaxe that can turn into a dolphin.</p>
 [Personality]
+<p>Nothing unique. Some can be tamed and ridden on.</p>
 [History]
+<p>They probably were major in a few wars in the past, nothing special.</p>
 [Fun Facts]
+<p>Some mistake this for a dolphin, very bad.</p>
 [Gallery]
 -/images/snaxii/minor/dolphin_snaxe/dolphin_snaxe_square.png
 -/images/snaxii/minor/dolphin_snaxe/dolphin_snaxe.png

@@ -2,12 +2,21 @@
 Grind Snaxe
 [Pronunciation]
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>Very dangerous. They live in their "Grind Snaxe Tombs".
+ While very fragile, they are also very powerful, kind of
+ like a box cannon.</p>
 [Personality]
+<p>They lure blind primates into their tombs, and do very
+ horrific things.</p>
 [History]
+<p>The ancient Grind Snaxe Triangle Tombs are still being
+ researched. Many have been tomb raided.</p>
 [Fun Facts]
+<p>Like other Snaxii, there is not much fun regarding this Snaxe.
+ Although, it is fun to use in the Hecretary card game.</p>
 [Gallery]
 -/images/snaxii/minor/grind_snaxe/grind_snaxe_tomb_square.jpg
 -/images/snaxii/minor/grind_snaxe/grind_snaxe_tomb.jpeg
