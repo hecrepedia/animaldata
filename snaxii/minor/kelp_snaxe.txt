@@ -1,13 +1,26 @@
 [Name]
 Kelp Snaxe
 [Pronunciation]
+/kehlp ssnaks/
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>Sushi masters looking for the best seaweed underwater must beware of this
+ species. These are not edible, if you eat them, then they will probably eat
+ you from the inside out. If you are a Hecretary Bird reading this, then
+ you should be fine.</p>
 [Personality]
+<p>They like to sway in the wind, just like trees. What? Did I say wind,
+ I meant waves. They like to sway in the waves, and like long naps at
+ the beach. Or that is at least what they nap about, they are immobile.</p>
 [History]
+<p>Some fools in the past thought that this was a rare delicacy that tasted
+ so good, you would never be able to taste anything like it again. The latter
+ half is true, the first is wrong.</p>
 [Fun Facts]
+<p>Kids in school like to research this Snaxe because when they have to act it
+ out, it is very easy to do this one.</p>
 [Gallery]
 -/images/snaxii/minor/kelp_snaxe/kelp_snaxe_square.png
 -/images/snaxii/minor/kelp_snaxe/kelp_snaxe.png

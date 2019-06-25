@@ -1,13 +1,30 @@
 [Name]
 Ninja Snaxe
 [Pronunciation]
+/nihn-jah ssnaks/
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>These Snaxii have lived in isolation every since their debut a few
+ hundred thousand years ago. On the islands of Japan, these Snaxii
+ train rigorously in the art of the Ninja, maxing out their sneak,
+ stealth, and assassination stats. They also like to play baseball.</p>
 [Personality]
+<p>Just like ninjas, these Snaxii are hard to be seen, because they
+ are shy. They are mortal enemies with the Samurai Snaxii, always
+ in constant war with them, since they are the two most common
+ species in Japan. Be careful, they can slither like snakes (I
+ mean, all Snaxii can, but they are cool).</p>
 [History]
+<p>Read Japan's history before the World Wars, probably the same
+ I guess. Who do you think I am, a researcher? (Edit: We need
+ a researcher to confirm this information).</p>
 [Fun Facts]
+<p>They are a very popular in pop culture, and have cartoons
+ based of them. A famous work based of the Ninja Snaxe is
+ 'Naruto', 'Naruto Shippuden', and 'Boruto, Naruto's Son, Child
+ of Naruto'.</p>
 [Gallery]
 -/images/snaxii/minor/ninja_snaxe/ninja_snaxe_square.png
 -/images/snaxii/minor/ninja_snaxe/ninja_snaxe.png

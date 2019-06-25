@@ -1,6 +1,7 @@
 [Name]
 Balloon Snaxe
 [Pronunciation]
+/bah-loon ssnaks/
 [Rarity]
 Minor
 [Powers]

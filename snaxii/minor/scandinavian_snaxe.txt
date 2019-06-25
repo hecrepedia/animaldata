@@ -1,13 +1,25 @@
 [Name]
 Scandinavian Snaxe
 [Pronunciation]
+/sskan-dih-NAY-veean ssnaks/
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>They are pure Scandinavian. Found in Scandinavia, the
+ birthplace of the first Primitive Snaxe. They are some of
+ the biggest, fastest, strongest, and smartest Snaxii around
+ (With a few exceptions), and their home is in deep Snaxe
+ territory. If you see one, run.</p>
 [Personality]
+<p>These bad boys train in the mountain, and like to get buff.
+ They also do Scandinavian things, whatever they do. For example,
+ they like keeping the streets clean. If you see clean streets,
+ be on guard.</p>
 [History]
+<p>Yes, they are pretty ancient.</p>
 [Fun Facts]
+<p>The weakest ones are only 50x stronger than a cobra.</p>
 [Gallery]
 -/images/snaxii/minor/scandinavian_snaxe/scandinavian_snaxe_square.png
 -/images/snaxii/minor/scandinavian_snaxe/scandinavian_snaxe.png

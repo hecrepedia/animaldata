@@ -1,13 +1,25 @@
 [Name]
 Office Snaxe
 [Pronunciation]
+/ah-fihss ssnaks/
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>They own OfficeMax and Office Depot. Yep, the human
+ CEOs are fake, don't listen to lies you fool.</p>
 [Personality]
+<p>They run their organizations from behind the scenes,
+ being a major source of income for the Snaxe Nation.
+ They like killing H-Birds with axes, we do not know
+ what they do with Hecretary Followers, so be wary.</p>
 [History]
+<p>Basically the same as the history of OfficeMax and
+ Office Depot, except they were the ones in power.</p>
 [Fun Facts]
+<p>While very helpful in getting printouts, providing office
+ tools and services, just remember not to thank them, despite
+ you probably getting a good grade in school due to it.</p>
 [Gallery]
 -/images/snaxii/minor/office_snaxe/office_snaxe_square.png
 -/images/snaxii/minor/office_snaxe/office_snaxe.png

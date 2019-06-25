@@ -1,6 +1,7 @@
 [Name]
 Dolphin Snaxe
 [Pronunciation]
+/dol-fihn ssnaks/
 [Rarity]
 Minor
 [Powers]

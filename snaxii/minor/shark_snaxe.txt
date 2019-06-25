@@ -1,13 +1,26 @@
 [Name]
 Shark Snaxe
 [Pronunciation]
+/shark ssnaks/
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>Big, big, biiiiiig Snaxe. One was famously named
+ Jaworskit the Polish Shark, and it wasn't even Polish!</p>
 [Personality]
+<p>Likes the listen to the Jaws theme, likes to attack boats,
+ attracted to Hecretary Bird Blood, but can't stand the strength
+ of the Hecretary Bird's Blood. Nothing run-of-the-mill, just
+ some shark stuff</p>
 [History]
+<p>It is said that lifeguards were hired just because a
+ Shark Snaxe accidentally bit a human in xx83. The said
+ Shark Snaxe was interviewed and said that it hated
+ such a disguisting taste.</p>
 [Fun Facts]
+<p>They like pool noodles, very good with a nice broth,
+ egg, and other ramen stuff.</p>
 [Gallery]
 -/images/snaxii/minor/shark_snaxe/shark_snaxe_square.png
 -/images/snaxii/minor/shark_snaxe/shark_snaxe.png

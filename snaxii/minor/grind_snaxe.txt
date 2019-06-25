@@ -1,6 +1,7 @@
 [Name]
 Grind Snaxe
 [Pronunciation]
+/greyend ssnaks/
 [Rarity]
 Minor
 [Powers]
@@ -10,7 +11,8 @@ Minor
  like a box cannon.</p>
 [Personality]
 <p>They lure blind primates into their tombs, and do very
- horrific things.</p>
+ horrific things. They also binge watch cat videos on
+ YouTube.</p>
 [History]
 <p>The ancient Grind Snaxe Triangle Tombs are still being
  researched. Many have been tomb raided.</p>

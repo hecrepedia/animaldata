@@ -1,6 +1,7 @@
 [Name]
 Yiper
 [Pronunciation]
+/yeye-puhr/
 [Rarity]
 Major
 [Powers]

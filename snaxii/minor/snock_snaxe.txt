@@ -1,13 +1,22 @@
 [Name]
 Snock Snaxe
 [Pronunciation]
+/snokss ssnaks/
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>One of the few Snaxii with Major Snaxe powers. Namely,
+ Shape Shifter. While it is fun to say Snock Snaxe, it is
+ not fun to get bitten by one.</p>
 [Personality]
+<p>Hate hygiene, and love the stonks meme and changing the o
+ into an i.</p>
 [History]
+<p>Dumbelsnaxe created this Snaxe.</p>
 [Fun Facts]
+<p>Transform into their Snaxe form easily if you have Snaxe
+ Spray.</p>
 [Gallery]
 -/images/snaxii/minor/snock_snaxe/snock_snaxe_square.png
 -/images/snaxii/minor/snock_snaxe/snock_snaxe.png

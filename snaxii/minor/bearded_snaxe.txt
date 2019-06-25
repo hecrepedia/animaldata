@@ -1,6 +1,7 @@
 [Name]
 Bearded Snaxe
 [Pronunciation]
+/beer-dehd ssnaks/
 [Rarity]
 Minor
 [Powers]

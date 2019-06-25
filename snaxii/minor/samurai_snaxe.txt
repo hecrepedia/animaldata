@@ -1,13 +1,27 @@
 [Name]
 Samurai Snaxe
 [Pronunciation]
+/sahm-uu-reye ssnaks/
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>These Snaxii have lived in isolation every since their debut a few
+ hundred thousand years ago. On the islands of Japan, these Snaxii
+ train rigorously in the art of the Samurai, maxing out their defense,
+ strength, and sword stats. They also like to play football, also known
+ as soccer some weird country that doesn't call it football.</p>
 [Personality]
+Just like Samurai, these Snaxii are easy to see, because of their
+ bulky armor. They are mortal enemies with the Ninja Snaxii, always
+ in constant war with them, since they are the two most common
+ species in Japan. Be careful, they can arrest you.
 [History]
+Read Japan's history before the World Wars, probably the same
+ I guess. Who do you think I am, a researcher? (Edit: We need
+ a researcher to confirm this information).
 [Fun Facts]
+<p>They are Samurai, despite being Snaxe.</p>
 [Gallery]
 -/images/snaxii/minor/samurai_snaxe/samurai_snaxe_square.png
 -/images/snaxii/minor/samurai_snaxe/samurai_snaxe.png

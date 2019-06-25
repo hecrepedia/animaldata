@@ -1,13 +1,27 @@
 [Name]
 Groot Snaxe
 [Pronunciation]
+/groot ssnaks/
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>This one is very popular amongst the Snaxii masses. It is
+ one of the beloved actors in Guardians of the Hecretary. It
+slightly resemles a Froot Snaxe, and probably is one.</p>
 [Personality]
+<p>All we can say is that it should be very popular with the
+ ladies. Why do we only know this much, see the history.</p>
 [History]
+<p>The Groot Snaxe is a Snaxe that was spied by eagle eyed
+ (intentional) viewers of the film Guardians of the Hecretary.
+ For a split second during the credits, one frame showing the
+ Groot Snaxe in all its glory was shown. Using the Indian Movie
+ Pirates (IMP) technique, the frame was hunted down and captured,
+ and all of the current information of the Groot Snaxe comes
+ from that one frame.</p>
 [Fun Facts]
+<p>The first Snaxe to be starred in a film.</p>
 [Gallery]
 -/images/snaxii/minor/groot_snaxe/groot_snaxe_square.png
 -/images/snaxii/minor/groot_snaxe/groot_snaxe.png

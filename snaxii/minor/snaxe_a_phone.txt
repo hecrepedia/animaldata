@@ -1,13 +1,21 @@
 [Name]
 Snaxe-a-Phone
 [Pronunciation]
+/ssnaks uh fohn/
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>It's a Saxaphone, it's a flip-phone, it's a Snaxe!!! Yes,
+ they are all correct. This snaxe is one of the few minor
+ Snaxii with Major Snaxe powers, namely, Shape Shifter.</p>
 [Personality]
+<p>They like turning into Saxophones and playing epic sax
+ guy music so much, that you will easily hate these guys.</p>
 [History]
+<p>Who even cares!</p>
 [Fun Facts]
+<p>Participate in many recreational activities.</p>
 [Gallery]
 -/images/snaxii/minor/snaxe_a_phone/snaxe_a_phone_square.png
 -/images/snaxii/minor/snaxe_a_phone/snaxe_a_phone.png

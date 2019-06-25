@@ -1,18 +1,30 @@
 [Name]
 Common Sea Snaxe
 [Pronunciation]
+/kah-mehn see ssnaks/
 [Rarity]
 Minor
 [Powers]
 [Bio]
-<p>They are ubiquitous in the sea and other locations of water.</p>
+<p>These snaxii are marine, and cannot survive on land.
+ They have the unique ability to spit water over long distances.
+ This ability helps them hunt for food and stun enemies.</p>
 [Personality]
-<p>They are aggressive but don't really do much.</p>
+<p>Common Sea Snaxii are mostly calm and rational,
+ but are known to be easily startled.
+ They are also extremely sensitive to their environment
+ and will attack polluting creatures.</p>
 [History]
-<p>It is said that the Yiper has an aquarium filled with these
- common Snaxii.</p>
+<p>About 36,000 years after the initial branching of the Snaxe
+ Evolutionary Tree, the world started to heat up. The ice caps
+ melted and sea levels rose. Some snaxii who lived in coastal
+ areas had to deal with heavy rain and flooding and therefore
+ developed adaptations to live underwater. The first of these
+ water snaxii, the Generic Water Snaxe, was the direct ancestor
+ of the Common Sea Snaxe.</p>
 [Fun Facts]
-<p>Some can appear in the form of a water gun!</p>
+<p>Despite its name, the Common Sea Snaxe can live in ponds,
+ rivers, and other bodies of freshwater.</p>
 [Gallery]
 -/images/snaxii/minor/common_sea_snaxe/common_sea_snaxe_square.jpg
 -/images/snaxii/minor/common_sea_snaxe/common_sea_snaxe.jpeg

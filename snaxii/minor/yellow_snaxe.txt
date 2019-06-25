@@ -1,13 +1,20 @@
 [Name]
 Yellow Snaxe
 [Pronunciation]
+/yehloh ssnaks/
 [Rarity]
-Majestic
+Minor
 [Powers]
 [Bio]
+<p>Common in Jamacia, these Snaxii are not really
+ strong but are somewhat intellegent.</p>
 [Personality]
+<p>Pretty common/normal.</p>
 [History]
+<p>Who knows!</p>
 [Fun Facts]
+<p>They are pretty much harmless, but can create traps
+ usnig their intellegence.</p>
 [Gallery]
 -/images/snaxii/minor/yellow_snaxe/yellow_snaxe_square.png
 -/images/snaxii/minor/yellow_snaxe/yellow_snaxe.png
