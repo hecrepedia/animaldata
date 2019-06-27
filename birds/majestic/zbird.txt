@@ -1,6 +1,8 @@
 [Name]
 Lesser Zecretary
 [Pronunciation]
+[Animal]
+Bird
 [Rarity]
 Majestic
 [Powers]

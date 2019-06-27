@@ -2,6 +2,8 @@
 Groot Snaxe
 [Pronunciation]
 /groot ssnaks/
+[Animal]
+Snaxe, Land
 [Rarity]
 Minor
 [Powers]

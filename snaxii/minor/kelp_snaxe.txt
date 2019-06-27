@@ -2,6 +2,8 @@
 Kelp Snaxe
 [Pronunciation]
 /kehlp ssnaks/
+[Animal]
+Snaxe, Sea
 [Rarity]
 Minor
 [Powers]

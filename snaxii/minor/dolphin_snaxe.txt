@@ -2,6 +2,8 @@
 Dolphin Snaxe
 [Pronunciation]
 /dol-fihn ssnaks/
+[Animal]
+Snaxe, Sea
 [Rarity]
 Minor
 [Powers]

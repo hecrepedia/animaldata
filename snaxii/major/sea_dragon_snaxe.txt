@@ -1,6 +1,8 @@
 [Name]
 Sea Dragon Snaxe
 [Pronunciation]
+[Animal]
+Snaxe, Sea
 [Rarity]
 Major
 [Powers]

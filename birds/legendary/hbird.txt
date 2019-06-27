@@ -2,6 +2,8 @@
 Hecretary Bird
 [Pronunciation]
 /hek-ree-TAY-ree bərd/
+[Animal]
+Bird
 [Rarity]
 Legendary
 [Powers]

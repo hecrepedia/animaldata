@@ -2,6 +2,8 @@
 Shark Snaxe
 [Pronunciation]
 /shark ssnaks/
+[Animal]
+Snaxe, Sea
 [Rarity]
 Minor
 [Powers]
