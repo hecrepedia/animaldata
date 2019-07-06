@@ -1,0 +1,25 @@
+[Name]
+Popcorn Snaxe
+[Pronunciation]
+/pop-kohrn ssnaks/
+[Animal]
+Snaxe, Land
+[Rarity]
+Minor
+[Powers]
+[Bio]
+<p>HAS NOTHING TO DO WITH POPCORN!!! Although this Snaxe does enjoy
+ some while watching documentaries. This Snaxe is the head of
+ StaMford, the prestigious school for Snaxii. Do not worry, most Snaxii
+ that graduate from this school are still illiterate or have very bad
+ English.</p>
+[Personality]
+<p>A very strict teaching regiment is who it keeps its students in
+ the tippiest and toppiest of shape.</p>
+[History]
+<p>Founded StaMford probably sometime in the past.</p>
+[Fun Facts]
+<p>Is nothing like popcorn. Balloon Snaxii are more like popcorn.</p>
+[Gallery]
+-/images/snaxii/minor/popcorn_snaxe/popcorn_snaxe_square.png
+-/images/snaxii/minor/popcorn_snaxe/popcorn_snaxe.png

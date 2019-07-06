@@ -1,0 +1,23 @@
+[Name]
+Froot Snaxe
+[Pronunciation]
+/froot ssnaks/
+[Animal]
+Snaxe, Land
+[Rarity]
+Minor
+[Powers]
+[Bio]
+<p>"A very queer Snaxe indeed", according to research. For unknown
+ reasons, these Snaxii come in packets of five. They are huge when
+ they are fully mature, but they are cleverly disguised as fruit snacks.
+ Come in many (but not fun) colors and flavors.</p>
+[Personality]
+<p>They are obsessed with fruit loops and are very patient.</p>
+[History]
+<p>IDK, so do you.</p>
+[Fun Facts]
+<p>Packaged by Welsh's Inc.</p>
+[Gallery]
+-/images/snaxii/minor/froot_snaxe/froot_snaxe_square.png
+-/images/snaxii/minor/froot_snaxe/froot_snaxe.png

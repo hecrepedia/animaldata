@@ -1,0 +1,23 @@
+[Name]
+Plain Snaxe
+[Pronunciation]
+/playn ssnaks/
+[Animal]
+Snaxe, Land
+[Rarity]
+Minor
+[Powers]
+[Bio]
+<p>Just a typical Snaxe. If you were to just go about looking for
+ some small, easy game, it would be these Snaxii. Literally the
+ most basic Snaxe. No special powers or anything.</p>
+[Personality]
+<p>They hate anything that is not normal, which is literally everything
+ except their own species. They especially hate planes.</p>
+[History]
+<p>Why would such a boring and plain Snaxe even have a history?!</p>
+[Fun Facts]
+<p>Snaxers are initiated by Snaxing one of these Snaxe.</p>
+[Gallery]
+-/images/snaxii/minor/plain_snaxe/plain_snaxe_square.png
+-/images/snaxii/minor/plain_snaxe/plain_snaxe.png
