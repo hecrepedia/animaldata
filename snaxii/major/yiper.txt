@@ -7,6 +7,7 @@ Snaxe, Land
 [Rarity]
 Major
 [Powers]
+-/powerdata/snaxe/time_stalin.txt
 [Bio]
 <p>A being of great power, enough to destroy cities and definitely much more.
  Whilst being a Major Snaxe, this is the only one with the power that rivals
