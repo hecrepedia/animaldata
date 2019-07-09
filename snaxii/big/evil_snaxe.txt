@@ -7,6 +7,7 @@ Snaxe, Land
 [Rarity]
 Big
 [Powers]
+-/powerdata/bird/intelligence.txt
 [Bio]
 <p>The most evil being known to the Hecretary Alliance. Do not ever feel sympathy
  for it or believe that it is being antagonized, it is just a ploy to convert you

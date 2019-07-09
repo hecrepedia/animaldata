@@ -8,6 +8,8 @@ Snaxe, Land
 Major
 [Powers]
 -/powerdata/snaxe/time_stalin.txt
+-/powerdata/snaxe/shape_shifter.txt
+-/powerdata/other/intelligence.txt
 [Bio]
 <p>A being of great power, enough to destroy cities and definitely much more.
  Whilst being a Major Snaxe, this is the only one with the power that rivals

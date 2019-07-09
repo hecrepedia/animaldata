@@ -7,6 +7,7 @@ Snaxe, Land
 [Rarity]
 Minor
 [Powers]
+-/powerdata/other/intelligence.txt
 [Bio]
 <p>Common in Jamacia, these Snaxii are not really
  strong but are somewhat intellegent.</p>

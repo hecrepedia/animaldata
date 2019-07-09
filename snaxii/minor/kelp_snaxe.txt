@@ -7,6 +7,7 @@ Snaxe, Sea
 [Rarity]
 Minor
 [Powers]
+-/powerdata/snaxe/shape_shifter.txt
 [Bio]
 <p>Sushi masters looking for the best seaweed underwater must beware of this
  species. These are not edible, if you eat them, then they will probably eat

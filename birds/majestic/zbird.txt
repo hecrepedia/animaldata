@@ -6,6 +6,9 @@ Bird
 [Rarity]
 Majestic
 [Powers]
+-/powerdata/bird/flight.txt
+-/powerdata/bird/black_hole_digestion.txt
+-/powerdata/other/intelligence.txt
 [Bio]
 <p>Imagine standing in the middle of space and just doing that for a really long time while being lesser than
  your greater counterpart. Great! You just imagined the Lesser Zecretary Bird.</p>

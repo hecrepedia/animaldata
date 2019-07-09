@@ -7,6 +7,7 @@ Snaxe, Land
 [Rarity]
 Minor
 [Powers]
+-/powerdata/snaxe/shape_shifter.txt
 [Bio]
 <p>"A very queer Snaxe indeed", according to research. For unknown
  reasons, these Snaxii come in packets of five. They are huge when

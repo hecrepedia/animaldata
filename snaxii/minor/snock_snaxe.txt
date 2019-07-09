@@ -7,6 +7,7 @@ Snaxe, Land
 [Rarity]
 Minor
 [Powers]
+-/powerdata/snaxe/shape_shifter.txt
 [Bio]
 <p>One of the few Snaxii with Major Snaxe powers. Namely,
  Shape Shifter. While it is fun to say Snock Snaxe, it is

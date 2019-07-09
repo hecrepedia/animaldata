@@ -7,6 +7,7 @@ Snaxe, Sea
 [Rarity]
 Minor
 [Powers]
+-/powerdata/snaxe/shape_shifter.txt
 [Bio]
 <p>A sea-dwelling Snaxe that can turn into a dolphin.</p>
 [Personality]
